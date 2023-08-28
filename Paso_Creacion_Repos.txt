@@ -1,1 +1,2 @@
-Le vamos a 
+Le vamos a parapapapa
+git config --global color.ui true
